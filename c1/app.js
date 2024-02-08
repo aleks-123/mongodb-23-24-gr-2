@@ -57,4 +57,9 @@ app.listen(port, () => {
 // }
 // saveBlog();
 
-//? Za domasna
+//? Za domasna da se kreira
+//? Akteri - kolekckcija so get i post
+//? Peaci - kolekcija so get i post
+//? filmovi - kolekcija so get i post
+
+//? domasna2
